@@ -1,0 +1,55 @@
+{
+  "produtos": [
+    {
+      "nameProduto": "Shampoo",
+      "id": 1,
+      "preço": 10.0
+    },
+    {
+      "nameProduto": "Condicionador",
+      "id": 2,
+      "preço": 10.0
+    },
+    {
+      "nameProduto": "Sabonete",
+      "id": 3,
+      "preço": 3.5
+    }
+  ],
+
+  "funcionarios": [
+    {
+      "nomeFuncionario": "Pedro",
+      "areaFuncionario": "Atendente",
+      "id": 1
+    },
+    {
+      "nomeFuncionario": "Roberto",
+      "areaFuncionario": "Gerente",
+      "id": 2
+    },
+    {
+      "nomeFuncionario": "Reinaldo",
+      "areaFuncionario": "Segurança",
+      "id": 3
+    }
+  ],
+
+  "clientes": [
+    {
+      "nomeCliente": "Cleiton",
+      "cpf": "12345678910",
+      "id": 1
+    },
+    {
+      "nomeCliente": "Jailson",
+      "cpf": "10987654321",
+      "id": 2
+    },
+    {
+      "nomeCliente": "Webeson",
+      "cpf": "13579246810",
+      "id": 3
+    }
+  ]
+}
